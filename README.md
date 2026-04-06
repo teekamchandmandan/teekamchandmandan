@@ -1,8 +1,18 @@
 # Hi, I'm Teekam 👋
 
-Senior full-stack engineer with 7+ years shipping product end-to-end at startups. I build AI-assisted tools, data-heavy UIs, and clean backend APIs.
+Senior frontend engineer (7+ years) with full-stack experience building scalable products at startups. CS grad from IIT Kanpur. I specialize in data-heavy dashboards, GenAI integrations, and performance-focused UIs.
 
-**Stack:** React · TypeScript · Python · FastAPI · Next.js · SQLite/PostgreSQL · Tailwind
+**Frontend:** React · TypeScript · Redux · Angular · AG Grid · Astro · Flutter · Jest · Playwright
+**Backend:** Node.js · NestJS · FastAPI · Django · Python · PostgreSQL · MongoDB · Docker · GCP
+
+---
+
+### What I build
+
+- **Data-intensive UIs** — real-time dashboards with AG-Grid & Crossfilter, virtualised tables at scale
+- **GenAI tooling** — RAG pipelines, LLM-assisted workflows, AI coding agents
+- **Offline-first apps** — cross-platform Flutter apps for low-connectivity field environments
+- **Performance & SEO** — Core Web Vitals optimization, accessible component design, Pagefind-indexed template libraries
 
 ---
 
@@ -11,8 +21,8 @@ Senior full-stack engineer with 7+ years shipping product end-to-end at startups
 | | |
 |---|---|
 | [**context-aware-health-nudge**](https://github.com/teekamchandmandan/context-aware-health-nudge) | Proactive health coaching prototype — personalized nudges, LLM phrasing, coach escalation, audit trail · Python / FastAPI / React |
-| [**flow-builder**](https://github.com/teekamchandmandan/flow-builder) | Visual node-graph flow builder with real-time validation, JSON import/export, undo/redo · TypeScript / React Flow / Zustand · [Live demo ↗](https://flow-builder-ruddy.vercel.app) |
 | [**sandbox-agent**](https://github.com/teekamchandmandan/sandbox-agent) | AI coding assistant running generated code in isolated Firecracker microVMs with SSE streaming · Next.js / AI SDK / Vercel Sandbox · [Live demo ↗](https://questom-sandbox-agent.vercel.app) |
+| [**flow-builder**](https://github.com/teekamchandmandan/flow-builder) | Visual node-graph flow builder with real-time validation, JSON import/export, undo/redo · TypeScript / React Flow / Zustand · [Live demo ↗](https://flow-builder-ruddy.vercel.app) |
 | [**grid-watch-virtualised**](https://github.com/teekamchandmandan/grid-watch-virtualised) | Virtualized data table for 1000+ rows with Redux, real-time search, sort, filter, Storybook · TypeScript / React / redux-toolkit · [Live demo ↗](https://gridwatch-demo-teekam.vercel.app) |
 | [**react-hooks**](https://github.com/teekamchandmandan/react-hooks) | 25 custom React hooks with interactive demos and unit tests — useDebounce, useFetch, useIntersectionObserver, and more · JavaScript |
 
