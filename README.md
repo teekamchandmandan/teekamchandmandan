@@ -1,6 +1,6 @@
-# Hi, I'm Teekam 👋
+# Teekam Chand Mandan
 
-Senior frontend engineer, CS from IIT Kanpur. 7+ years shipping React apps, data-heavy dashboards, and backend APIs at startups.
+Senior Software Engineer, CS from IIT Kanpur. 7+ years building scalable web products at startups.
 
 **Stack:** React · TypeScript · Node.js · FastAPI · PostgreSQL
 
